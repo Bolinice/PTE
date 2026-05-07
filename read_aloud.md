@@ -16,3 +16,14 @@ Instead, settlers were forced to support themselves by cultivating crops that th
 在16世纪末和17世纪，许多英国、法国和荷兰移民前往北美寻找金银。 
 但他们并未找到。 
 相反，定居者们被迫通过种植作物来维持生计，这些作物可以在欧洲出售，例如烟草、靛蓝和稻米。
+
+4.Long isolated from Western Europe, Russia grew up without participating in the development like the Reformation that many Russians taking pride in their
+
+5.Yellow is considered as the most optimistic color.
+Yet surprisingly, people lose their tempers more often in yellow rooms and babies cry more in them.
+The reason may be that yellow is the hardest color for eyes to take in.
+So it can be overpowering if overused.
+黄色被认为是最乐观的颜色。
+然而令人惊讶的是，人们在黄色房间里更容易发脾气，婴儿在其中也哭得更频繁。
+原因可能是黄色是眼睛最难接受的颜色。
+因此，如果使用过度，它可能会产生压倒性的效果。
