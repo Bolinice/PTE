@@ -62,3 +62,39 @@ which is of fundamental importance for the analysis of sensitive samples using X
 在此过程中，科学家们观察到水即使在超过170摄氏度的温度下仍能保持液态。
 这项研究揭示了水的异常动态行为，
 这对于使用X射线激光分析敏感样品具有根本性的重要意义。
+
+10.There is no single method of learning that guarantees success. 
+How we learn that depends on many different factors. 
+And what works best for you will not necessarily be the same as the approach used for the other students even if they study the same course. 
+We are all unique as learners, although some patterns emerge from any groups of students.
+没有一种单一的学习方法能够保证成功。
+我们如何学习，取决于许多不同的因素。
+而对你来说最有效的方法，未必与那些学习同一课程的其他学生所采用的方法相同。
+我们作为学习者都是独特的，尽管从任何一组学生中都会显现出一些共同的模式。
+
+11.The core of the problem was the immense disparity between the country’s productive capacity and the ability of people to consume. 
+Great innovations in productive techniques during and after the war raised the output of industry beyond the purchasing capacity of U.S. farmers and wage earners.
+问题的核心在于国家生产能力与人民消费能力之间存在巨大差距。
+战争期间及战后，生产技术方面出现了重大创新，这使得工业产出超过了美国农民和工薪阶层的购买能力。
+
+12.Have you ever pictured a world without light? 
+Just think how much we rely on man-made light sources in our lives. 
+Without engineers, we wouldn't be able to live the way we do. 
+No street lights, no TV, no computer display, no house lights. 
+Engineers design and build all these things, and they also design, build and run the electricity systems that power all these light sources.
+你是否曾想象过一个没有光的世界？
+想想看，我们在生活中多么依赖人造光源。
+如果没有工程师，我们就无法以现有的方式生活。
+没有街灯，没有电视，没有电脑显示器，也没有室内照明。
+工程师们设计并建造了所有这些设施，他们还设计、建造并运行着为所有这些光源供电的电力系统。
+
+13.Food is one of the most important things you'll ever buy. 
+And yet most people never bother to think about their food and where it comes from. 
+People spend a lot more time worrying about what kind of blue jeans to wear, what kind of video games to play, what kind of computers to buy.
+食物是你将要购买的最重要的事物之一。 
+然而大多数人从不费心去思考他们的食物及其来源。 
+人们花费更多时间纠结于穿什么样的蓝色牛仔裤、玩什么样的电子游戏、买什么样的电脑。
+
+14.Teenage girls are continuing to outperform boys in English while the gender gap in achievements in math and science has almost disappeared. 
+The figures show that last year 80% of 14-year-old girlsreached at least the expected level 5 in English, compared with 65% of boys. 
+But in math, the girls are just 1% ahead of boys, while in science the difference is 2%.
