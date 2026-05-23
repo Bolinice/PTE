@@ -98,3 +98,18 @@ People spend a lot more time worrying about what kind of blue jeans to wear, wha
 14.Teenage girls are continuing to outperform boys in English while the gender gap in achievements in math and science has almost disappeared. 
 The figures show that last year 80% of 14-year-old girlsreached at least the expected level 5 in English, compared with 65% of boys. 
 But in math, the girls are just 1% ahead of boys, while in science the difference is 2%.
+Teenage girls are continuing to outperform boys in English while the gender gap in achievements in math and science has almost disappeared.
+青少年女孩在英语方面继续表现优于男孩，而数学和科学成绩的性别差距几乎已经消失。
+数据显示，去年80%的14岁女孩在英语方面至少达到了预期的5级水平，而男孩的比例为65%。
+但在数学方面，女孩仅比男孩高出1%，而在科学方面，差距为2%。
+
+15.It seems that language appeared from nowhere since no other species has anything resembling human language. 
+However, other animals do possess basic systems for perceiving and producing sounds that enable them to communicate. 
+These systems may have been in place before the appearance of language.
+似乎语言是从无中生有的，因为其他物种没有任何类似人类语言的东西。
+然而，其他动物确实拥有感知和产生声音的基本系统，使它们能够进行交流。
+这些系统可能在语言出现之前就已经存在了。
+
+16.Before European explorers had reached Australia, it was believed that all swans were white. 
+Dutch mariner, Antonie Caen, was the first to be amazed at the sight of Australia's Black swans on the Shark Bay in 1636. Explorer Willem de Vlamingh captured two of these creatures on Australia's Swan River and returned with them to Europe to prove their existence.
+From that point on, black swans and Australia have been closely linked.
